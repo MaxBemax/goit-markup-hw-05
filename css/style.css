@@ -658,6 +658,7 @@ input {
 .modal-open:hover,
 .modal-open:focus {
    background-color: #404bbf;
+   border: none;
    fill: #ffffff;
 }
 
